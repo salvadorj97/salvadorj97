@@ -12,8 +12,8 @@ Based in Paris 🇫🇷 | From Mexico 🇲🇽 | Previously at FORVIA (Nanterre)
 
 **Data & BI:** Power BI · DAX · Power Query M · Excel  
 **Automation:** Power Automate · SharePoint  
-**PM & Agile:** Redmine · Scrum (PSM I certified)  
-**Languages:** Spanish (native) · English (C1) · French (C1) · Mandarin (HSK4)
+**PM & Agile:** Jira · Redmine · Scrum (PSM I certified)  
+**Languages:** Spanish (native) · English (C1) · French (C1) · Mandarin (HSK4) · Portuguese (basic)
 
 ---
 
