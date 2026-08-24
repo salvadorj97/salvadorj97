@@ -20,6 +20,7 @@ Excel templates for fundamental analysis of stocks and ETFs — valuation, profi
 Multi-currency investment tracker built with Excel and Power BI. Tracks stocks, ETFs, dividends, and fixed income across MX and US markets.
 ### 🎓 [rpa-adoption-survey-analysis](https://github.com/salvadorj97/rpa-adoption-survey-analysis)
 Graduate thesis analysis on automation adoption (Power Automate, UiPath, low-code platforms). Quantitative study, n = 41 respondents, analyzed and visualized in Power BI.
+
 ---
 ## 📬 Find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Salvador%20Jiménez--Juárez-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/salvador-jimenez97mx)
