@@ -1,13 +1,18 @@
 # Hi, I'm Salvador 👋
+
 **Business Analyst · Digital Transformation · Power Platform**
 I bridge the gap between business needs and data — turning messy spreadsheets, broken workflows, and scattered SharePoint files into dashboards that actually get used.
+
 Based in Paris 🇫🇷 | From Mexico 🇲🇽 | Previously at FORVIA (Nanterre)
+
 ---
 ## 🔧 What I work with
-**Data & BI:** Power BI · DAX · Power Query M · Excel  
+
+**Data & BI:** Power BI · DAX · Power Query M · Excel · MySQL
 **Automation:** Power Automate · SharePoint  
 **PM & Agile:** Jira · Redmine · Scrum (PSM I certified)  
 **Languages:** Spanish (native) · English (C1) · French (C1) · Mandarin (HSK4) · Portuguese (basic)
+
 ---
 ## 📌 Featured Projects
 ### 🏢 [power-bi-real-estate-risk-dashboard](https://github.com/salvadorj97/power-bi-real-estate-risk-dashboard)
