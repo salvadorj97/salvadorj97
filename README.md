@@ -14,10 +14,10 @@ Based in Paris 🇫🇷 | From Mexico 🇲🇽 | Previously at FORVIA (Nanterre)
 End-to-end Power BI solution for real estate portfolio risk monitoring across 500+ global projects. Multi-table joins, custom gate-level status logic, and a SharePoint file selection fix built from scratch in Power Query M.
 ### ⚙️ [power-automate-file-naming](https://github.com/salvadorj97/power-automate-file-naming)
 Files uploaded to SharePoint were named inconsistently, causing Power BI to load stale data. Built a Power Automate flow to auto-rename files with the upload date — so dashboards always refresh from the right source.
-### 📊 [personal-investment-dashboard](https://github.com/salvadorj97/personal-investment-dashboard)
-Multi-currency investment tracker built with Excel and Power BI. Tracks stocks, ETFs, dividends, and fixed income across MX and US markets.
 ### 📈 [fundamental-analysis-templates](https://github.com/salvadorj97/fundamental-analysis-templates)
 Excel templates for fundamental analysis of stocks and ETFs — valuation, profitability, debt, cash flow, and DuPont decomposition. Built for individual investors who want to go beyond price charts.
+### 📊 [personal-investment-dashboard](https://github.com/salvadorj97/personal-investment-dashboard)
+Multi-currency investment tracker built with Excel and Power BI. Tracks stocks, ETFs, dividends, and fixed income across MX and US markets.
 ### 🎓 [rpa-adoption-survey-analysis](https://github.com/salvadorj97/rpa-adoption-survey-analysis)
 Graduate thesis analysis on automation adoption (Power Automate, UiPath, low-code platforms). Quantitative study, n = 41 respondents, analyzed and visualized in Power BI.
 ---
