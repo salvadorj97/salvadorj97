@@ -1,10 +1,10 @@
 ### Hi, I'm Salvador 👋
 
-**Business Analyst · Digital Transformation · Power Platform** – Paris, France
+**Business Analyst · Digital Transformation · Power Platform** · Paris, France
 
-I bridge business teams and IT: I gather requirements, build the reporting and automation tools people actually use, and make sure the data behind them is reliable.
+I bridge business teams and IT: I map processes, gather requirements, build the reporting and automation tools people actually use, and make sure the data behind them is reliable.
 
-- 🎓 Mastère Spécialisé Digital Strategy Management – Grenoble Ecole de Management
+- 🎓 Mastère Spécialisé Digital Strategy Management, Grenoble Ecole de Management
 - 🏭 Digital Transformation Analyst at FORVIA (Power BI, Power Automate, SharePoint)
 - 🌍 Spanish (native) · English · French · Mandarin (HSK4)
 
@@ -12,6 +12,7 @@ I bridge business teams and IT: I gather requirements, build the reporting and a
 
 | Project | What it shows |
 |---|---|
+| [ba-case-contract-approval-workflow](https://github.com/salvadorj97/ba-case-contract-approval-workflow) | Business Analysis case from a real multi-country workflow: as-is/to-be process maps, RACI, user stories with acceptance criteria, KPIs |
 | [personal-investment-dashboard](https://github.com/salvadorj97/personal-investment-dashboard) | Power BI star schema, DAX, multi-currency logic |
 | [fundamental-analysis-templates](https://github.com/salvadorj97/fundamental-analysis-templates) | Excel and Power Query templates to analyse stocks and ETFs (valuation, DuPont, peer comparison) |
 | [power-bi-real-estate-risk-dashboard](https://github.com/salvadorj97/power-bi-real-estate-risk-dashboard) | Risk monitoring, Power Query M |
